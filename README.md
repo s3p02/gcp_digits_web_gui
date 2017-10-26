@@ -76,4 +76,11 @@ For Models, Click Images>>Classification under 'New Model' as shown below:
   <img src="/update_5.png">
 </kbd>
 
+Once your at the 'New Image Classification Model' page, Fill in the following :
 
+1. Image size 240x240
+2. Path to our dataset, in my case it is '/home/srpa3180/flowers/' your's would be '/home/__GCP__USERNAME__/flowers/'
+
+<kbd>
+  <img src="/update_6.png">
+</kbd>
