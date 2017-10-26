@@ -84,3 +84,23 @@ Once your at the 'New Image Classification Model' page, Fill in the following :
 <kbd>
   <img src="/update_6.png">
 </kbd>
+
+3. Scroll down to select a standard network. We shall use [Caffe](http://caffe.berkeleyvision.org) [Deeplearning](https://en.wikipedia.org/wiki/Deep_learning) Framework on [GoogLeNet](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/googlenet.html) Network.
+
+<kbd>
+  <img src="/update_7.png">
+</kbd>
+
+You may choose a network and customize it if you like.
+
+<kbd>
+  <img src="/update_7_customize.png">
+</kbd>
+
+You may visualize the network if you like.
+
+<kbd>
+  <img src="/update_7_visualize.png">
+</kbd>
+
+
