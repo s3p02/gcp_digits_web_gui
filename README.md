@@ -24,7 +24,7 @@ In your web browser, enter http://__YOUR__EXTERNAL__IP__ADDRESS__:5000/
 
 
 <kbd>
-  <img src="/1.png">
+  <img src="/update_1.png">
 </kbd>
 
 You will see the DIGITS webpage as shown above.
