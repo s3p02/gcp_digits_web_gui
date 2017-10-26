@@ -78,8 +78,8 @@ For Models, Click Images>>Classification under 'New Model' as shown below:
 
 Once your at the 'New Image Classification Model' page, Fill in the following :
 
-1. Image size 240x240
-2. Path to our dataset, in my case it is '/home/srpa3180/flowers/' your's would be '/home/__GCP__USERNAME__/flowers/'
+1. Select the flowers dataset we previously created
+2. We run 30 [Epochs](https://deeplearning4j.org/glossary). An Epoch is a complete pass through all the training data. A neural network is trained until the error rate is acceptable, and this will often take multiple passes through the complete data set.
 
 <kbd>
   <img src="/update_6.png">
