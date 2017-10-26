@@ -43,3 +43,14 @@ In order to use DIGITS to create models and dataset's one needs to have a userna
 <kbd>
   <img src="/update_3_1.png">
 </kbd>
+
+Once your at the 'New Image Classification Dataset' page, Fill in the following :
+
+1. Image size 240x240
+2. Path to our dataset, in my case it is '/home/srpa3180/flowers/' your's would be '/home/__GCP__USERNAME__/flowers/'
+3. Name your dataset, assign a group
+4. Click create 
+
+<kbd>
+  <img src="/update_3.png">
+</kbd>
