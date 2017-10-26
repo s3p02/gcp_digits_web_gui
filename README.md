@@ -55,3 +55,10 @@ Once your at the 'New Image Classification Dataset' page, Fill in the following 
 <kbd>
   <img src="/update_3.png">
 </kbd>
+
+Once you hit create, the page refreshes to a visual representation of our dataset being created. 
+
+<kbd>
+  <img src="/update_4.png">
+</kbd>
+
