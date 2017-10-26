@@ -46,10 +46,10 @@ In order to use DIGITS to create models and dataset's one needs to have a userna
 
 Once your at the 'New Image Classification Dataset' page, Fill in the following :
 
-1. Image size 240x240
-2. Path to our dataset, in my case it is '/home/srpa3180/flowers/' your's would be '/home/__GCP__USERNAME__/flowers/'
-3. Name your dataset, assign a group
-4. Click create 
+## 1. Image size 240x240
+## 2. Path to our dataset, in my case it is '/home/srpa3180/flowers/' your's would be '/home/__GCP__USERNAME__/flowers/'
+## 3. Name your dataset, assign a group
+## 4. Click create 
 
 
 <kbd>
@@ -78,14 +78,14 @@ For Models, Click Images>>Classification under 'New Model' as shown below:
 
 Once your at the 'New Image Classification Model' page, Fill in the following :
 
-1. Select the flowers dataset we previously created
-2. We run 30 [Epochs](https://deeplearning4j.org/glossary). An Epoch is a complete pass through all the training data. A neural network is trained until the error rate is acceptable, and this will often take multiple passes through the complete data set.
+## 1. Select the flowers dataset we previously created
+## 2. We run 30 [Epochs](https://deeplearning4j.org/glossary). An Epoch is a complete pass through all the training data. A neural network is trained until the error rate is acceptable, and this will often take multiple passes through the complete data set.
 
 <kbd>
   <img src="/update_6.png">
 </kbd>
 
-3. Scroll down to select a standard network. We shall use [Caffe](http://caffe.berkeleyvision.org) [Deeplearning](https://en.wikipedia.org/wiki/Deep_learning) Framework on [GoogLeNet](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/googlenet.html) Network.
+## 3. Scroll down to select a standard network. We shall use [Caffe](http://caffe.berkeleyvision.org) [Deeplearning](https://en.wikipedia.org/wiki/Deep_learning) Framework on [GoogLeNet](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/googlenet.html) Network.
 
 <kbd>
   <img src="/update_7.png">
