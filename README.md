@@ -1,3 +1,5 @@
+# An alternative access to DIGITS, using the web-interface. 
+
 ## Step i : Download Dataset
 
 Once you have the digits docker container up and running, at your terminal, enter the following to download the dataset. For our dataset, we shall use google's creative-commons licensed flower photos.
