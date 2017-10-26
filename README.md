@@ -51,6 +51,7 @@ Once your at the 'New Image Classification Dataset' page, Fill in the following 
 3. Name your dataset, assign a group
 4. Click create 
 
+
 <kbd>
   <img src="/update_3.png">
 </kbd>
