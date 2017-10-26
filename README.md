@@ -40,7 +40,6 @@ Click Images>>Classification under 'New Dataset' as shown below:
 In order to use DIGITS to create models and dataset's one needs to have a username to login. Enter your name. Given that Multiple users can access the same server, username isolates their usage i.e. creating models, and datasets from other accounts.
 
 
-
 <kbd>
   <img src="/3.png">
 </kbd>
