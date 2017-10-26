@@ -62,3 +62,16 @@ Once you hit create, the page refreshes to a visual representation of our datase
   <img src="/update_4.png">
 </kbd>
 
+## Step iv : Create Model
+
+Navigate to DIGITS home page by clicking on DIGITS on the left corner of the screen.
+
+<kbd>
+  <img src="/7.png">
+</kbd>
+
+For Models, Click Images>>Classification under 'New Model' as shown below:
+
+<kbd>
+  <img src="/update_5.png">
+</kbd>
