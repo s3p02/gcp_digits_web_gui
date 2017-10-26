@@ -103,4 +103,9 @@ You may visualize the network if you like.
   <img src="/update_7_visualize.png">
 </kbd>
 
+Name your model and group.
+
+<kbd>
+  <img src="/update_8_create.png">
+</kbd>
 
