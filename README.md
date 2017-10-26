@@ -34,7 +34,7 @@ You will see the DIGITS webpage as shown above.
 Click Images>>Classification under 'New Dataset' as shown below:
 
 <kbd>
-  <img src="/2.png">
+  <img src="/update_2.png">
 </kbd>
 
 In order to use DIGITS to create models and dataset's one needs to have a username to login. Enter your name. Given that Multiple users can access the same server, username isolates their usage i.e. creating models, and datasets from other accounts.
