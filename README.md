@@ -41,5 +41,5 @@ In order to use DIGITS to create models and dataset's one needs to have a userna
 
 
 <kbd>
-  <img src="/3.png">
+  <img src="/update_3_1.png">
 </kbd>
