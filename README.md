@@ -109,3 +109,33 @@ Name your model and group.
   <img src="/update_8_create.png">
 </kbd>
 
+Once your model is initialized, you see its progress.
+
+<kbd>
+  <img src="/update_9_model running.png">
+</kbd>
+
+We can Test our models as it run each Epoch. Scroll Down and enter the path to test image ''
+
+<kbd>
+  <img src="/update_9_test_epoch.png">
+</kbd>
+
+Our accuracy is less at early stages, I tested mine at Epoch 2. It improves over each Epoch, but just increasing the number Epochs never assures better accuracy. DIGITS saves each epoch so you can test each one by selecting it through the dropdown menu.
+
+<kbd>
+  <img src="/update_9_one.png">
+</kbd>
+
+Once the model is complete, you can download by selecting the particular epoch.
+
+<kbd>
+  <img src="/update_10_complete.png">
+</kbd>
+
+The download is a tar ball, which you can extract and deploy.
+
+<kbd>
+  <img src="/update_10_download.png">
+</kbd>
+
